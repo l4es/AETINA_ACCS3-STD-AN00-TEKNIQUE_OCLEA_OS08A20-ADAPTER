@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.10-88a1d61d58~88~ubuntu18.04.1*%
+%TF.CreationDate,2021-08-08T17:29:49+07:00*%
+%TF.ProjectId,AETINA_ACCS3-STD-AN00-TEKNIQUE_OCLEA_OS08A20-ADAPTER,41455449-4e41-45f4-9143-4353332d5354,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.10-88a1d61d58~88~ubuntu18.04.1) date 2021-08-08 17:29:49*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,4.400000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,H4*%
+X139646660Y-79181960D03*
+%TD*%
+%TO.C,H3*%
+X139552680Y-113235740D03*
+%TD*%
+%TO.C,H2*%
+X105514140Y-113238280D03*
+%TD*%
+%TO.C,H1*%
+X105389680Y-79164180D03*
+%TD*%
+M02*
